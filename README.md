@@ -1,4 +1,4 @@
-# port-scanner
+# Python Port Scanner
 
 
 ## This is the boilerplate for the Port Scanner project. 
